@@ -1,4 +1,4 @@
-<h2><a href="https://www.geeksforgeeks.org/problems/minimize-the-heights3351/1?page=1&company=Microsoft&sortBy=submissions">Minimize the Heights II</a></h2><h3>Difficulty Level : Medium</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size: 18px;">Given an array <strong>arr[]</strong>&nbsp;denoting heights of <strong>N</strong> towers and a positive integer <strong>K. </strong></span></p>
+<h2><a href="https://www.geeksforgeeks.org/problems/minimize-the-heights3351/1?page=1&sortBy=submissions">Minimize the Heights II</a></h2><h3>Difficulty Level : Medium</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size: 18px;">Given an array <strong>arr[]</strong>&nbsp;denoting heights of <strong>N</strong> towers and a positive integer <strong>K. </strong></span></p>
 <p><span style="font-size: 18px;">For <strong>each </strong>tower, you must perform <strong>exactly one</strong> of the following operations <strong>exactly once</strong>.</span></p>
 <ul>
 <li><span style="font-size: 18px;"><strong>Increase </strong>the height of the tower by <strong>K</strong></span></li>
