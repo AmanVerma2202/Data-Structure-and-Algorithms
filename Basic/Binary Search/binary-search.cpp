@@ -11,6 +11,7 @@ using namespace std;
 class Solution {
   public:
     int binarysearch(int arr[], int n, int k) {
+        // code here
         int l=0;
         int r=n-1;
         while (l <= r) {
